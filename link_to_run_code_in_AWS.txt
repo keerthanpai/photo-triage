@@ -1,0 +1,9 @@
+This AWS instance has only 1 GB ram, so running the code here is slower than our system. So we have written down the DeepNet extracted features difference between two images to ~/caffe/examples/train_matrix_2885.npy and ~/caffe/examples/validation_matrix_100.npy file so that training and testing various models be faster.
+
+
+Link to code : 
+	http://54.67.45.152:8888/notebooks/caffe/examples/Photo%20Triage%20(vgg%20siamese).ipynb
+
+
+Link to vgg-siamese configuration for feature extraction:
+	http://54.67.45.152:8888/edit/caffe/models/vggsms/deploy.prototxt#
