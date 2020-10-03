@@ -1,6 +1,7 @@
 
-[![DeepSource](https://static.deepsource.io/deepsource-badge-light.svg)](https://deepsource.io/gh/yashkim24/StackOverflow-assistant-bot/?ref=repository-badge)
+[![DeepSource](https://deepsource.io/gh/keerthanpai/photo-triage.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/keerthanpai/photo-triage/?ref=repository-badge)
 
+[![DeepSource](https://deepsource.io/gh/keerthanpai/photo-triage.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/keerthanpai/photo-triage/?ref=repository-badge)
 
 
 1. ML_PhotoTriage_Report_MT_09.pdf is the Final Report
